@@ -44,3 +44,9 @@
 [You Tube Link](https://www.youtube.com/watch?v=VM5MloCL-fA&list=PLwGdqUZWnOp2JYAoNE_-7sSWcIeO1A-xi&index=25)
 
 [Click Here](http://text-lightning.surge.sh/)
+
+### 08 Box Loading Effect
+
+[You Tube Link](https://www.youtube.com/watch?v=A3Xd56-e80A&list=PLwGdqUZWnOp2JYAoNE_-7sSWcIeO1A-xi&index=26)
+
+[Click Here](http://load-box.surge.sh/)
