@@ -62,3 +62,8 @@
 [You Tube Link](https://www.youtube.com/watch?v=NB1zvl2RQzs&list=PLwGdqUZWnOp2JYAoNE_-7sSWcIeO1A-xi&index=29)
 
 [Click Here](https://horizontal-slider.surge.sh/)
+
+
+### 11 Text_Flip Animation
+
+[Click Here](http://text-flip.surge.sh/)

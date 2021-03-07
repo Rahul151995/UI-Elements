@@ -1,5 +1,3 @@
-### XD
+### XD 11 Text_Flip Animation
 
-[You Tube Link]()
-
-[Click Here]()
+[Click Here](http://text-flip.surge.sh/)
